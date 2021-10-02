@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/*.bak": true,
+        "**/*.exe": true,
+        "**/*.o": true,
+        "**/fp___.*": true
+    },
+    "files.encoding": "cp850"
+}
